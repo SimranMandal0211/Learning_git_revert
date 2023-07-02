@@ -8,16 +8,7 @@ body{
     background-color: palegreen;
 }
 
-h1{
-    margin: .5rem 0;
+h2{
     text-align: center;
     background-color: rgb(255, 0, 60);
-}
-
-p{
-    text-align: center;
-    background-color: white;
-    color: rgb(50, 0, 252);
-    font-weight: bold;
-    font-size: 1.3rem;
 }
